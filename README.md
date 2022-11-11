@@ -55,9 +55,8 @@
 
 This project was developed with the following technologies:
 
-- React
 - [Next.js](https://nextjs.org/docs/getting-started)
-- [PHP QR Code](https://phpqrcode.sourceforge.net/)
+- [Supabase](https://supabase.com/)
 
 ## 💻 Project
 
