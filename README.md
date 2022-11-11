@@ -48,7 +48,7 @@
     <img alt="objective" src=".github/aula5.png" width="100%">
 </p>
 <p align="center">
-    <img alt="objective" src=".github/aula5_1.png" width="50%">
+    <img alt="objective" src=".github/aula5_1.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -60,10 +60,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Share through QRCodes the contact information or access to the link.
-Excel xml spreadsheet data transfer to mysql via php. MySQL data integration for PHP. Automatic QRCode creation according to the MySQL information that was inserted in Excel.
-Objective: generate QRCode for each employee of the company.
-Version 2.1 issue: does not work on iphone.
+Welcome! It's time to develop a brand new project during React Immersion!
 
 START
 - npm install
