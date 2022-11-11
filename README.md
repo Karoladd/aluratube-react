@@ -35,7 +35,7 @@
     <img alt="objective" src=".github/aula3.png" width="100%">
 </p>
 <p align="center">
-    <img alt="objective" src=".github/aula3_1.png" width="100%">
+    <img alt="objective" src=".github/aula3_1.png" width="50%">
 </p>
 
 ### Class 4
@@ -48,7 +48,7 @@
     <img alt="objective" src=".github/aula5.png" width="100%">
 </p>
 <p align="center">
-    <img alt="objective" src=".github/aula5_1.png" width="100%">
+    <img alt="objective" src=".github/aula5_1.png" width="50%">
 </p>
 
 ## 🚀 Technologies
